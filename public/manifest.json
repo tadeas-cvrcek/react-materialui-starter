@@ -1,0 +1,8 @@
+{
+  "short_name": "react-materialui-starter",
+  "name": "react-materialui-starter",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
